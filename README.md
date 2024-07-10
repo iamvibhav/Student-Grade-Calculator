@@ -1,2 +1,2 @@
-# Codsoft_Task2
-Student Grade Calculator
+# Student Grade Calculator
+Made in Java
